@@ -67,11 +67,7 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 Screenshots:
 
 
-![Screenshot (1381)](https://user-images.githubusercontent.com/61027679/182053948-32b90d86-6efd-4a6f-8624-e076a8e50a58.png)
 
-
-
-![Screenshot (1393)](https://user-images.githubusercontent.com/61027679/182075624-23d24942-57b3-42d6-84b0-b213799dba6c.png)
 ![Screenshot (1394)](https://user-images.githubusercontent.com/61027679/182075632-7dc1f6a4-b8f9-49c8-a28a-b82f90527817.png)
 ![Screenshot (1395)](https://user-images.githubusercontent.com/61027679/182075645-d45d04f4-0914-4cb8-a433-24e788d9ef2d.png)
 ![Screenshot (1396)](https://user-images.githubusercontent.com/61027679/182075653-a231f9dd-ad86-41f8-be11-90969eacebf5.png)
