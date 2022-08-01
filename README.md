@@ -34,7 +34,8 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 ## Flowcharts of The Application
 
-![Blank Diagram](https://user-images.githubusercontent.com/64940728/120771636-182e8e00-c528-11eb-92bb-f5856138c93f.png)
+
+![Screenshot (1402)](https://user-images.githubusercontent.com/61027679/182103177-12288802-9513-49f7-a461-d80988c86ebc.png)
 
 
 ## Core concepts used in the project. 
