@@ -5,7 +5,7 @@ Body {
 }  
 button {   
 	  justify-content: center;
-       background-color: #4CAF50;   
+       background-color: #7f4caf;   
        width: 100%;  
         color: white;   
         padding: 15px;   
@@ -25,7 +25,7 @@ button {
         margin: 8px 0;  
         padding: 12px 20px;   
         display: inline-block;   
-        border: 2px solid green;   
+        border: 2px solid rgb(150, 11, 243);   
         box-sizing: border-box;   
     }  
  button:hover {   
