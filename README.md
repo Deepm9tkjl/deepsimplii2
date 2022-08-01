@@ -66,16 +66,13 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 Screenshots:
 
-![image](https://user-images.githubusercontent.com/64940728/120771774-47dd9600-c528-11eb-86c8-ee8a1b133a23.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771806-4e6c0d80-c528-11eb-97bb-8abe14d8560c.png)
+![Screenshot (1381)](https://user-images.githubusercontent.com/61027679/182053948-32b90d86-6efd-4a6f-8624-e076a8e50a58.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771819-51ff9480-c528-11eb-98fe-39b7767b8de6.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771833-54fa8500-c528-11eb-9291-2ab6c81528f3.png)
-
-![image](https://user-images.githubusercontent.com/64940728/120771849-588e0c00-c528-11eb-89d0-fbc960d1562e.png)
-
-![image](https://user-images.githubusercontent.com/64940728/120771867-5c219300-c528-11eb-8aed-e8d137640817.png)
-
+![Screenshot (1386)](https://user-images.githubusercontent.com/61027679/182053963-fff29c2f-2461-4477-80f5-2f697b872c74.png)
+![Screenshot (1382)](https://user-images.githubusercontent.com/61027679/182053981-41402abf-72f0-4f8d-9d37-4a64b20c7bac.png)
+![Screenshot (1383)](https://user-images.githubusercontent.com/61027679/182053988-d694edf4-7894-4492-acf1-2667e844163f.png)
+![Screenshot (1384)](https://user-images.githubusercontent.com/61027679/182053992-59399168-70ec-420b-a98f-634d7906de4b.png)
+![Screenshot (1385)](https://user-images.githubusercontent.com/61027679/182053994-ab16916e-be24-4846-af2a-5adeefd5f81d.png)
 
